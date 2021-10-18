@@ -4,7 +4,7 @@ public class Fighter {
     int health;
     int weight;
     double dodge;
-
+//
     public Fighter(String name, int damage, int health, int weight, double dodge) {
         this.name = name;
         this.damage = damage;
