@@ -17,3 +17,5 @@ Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı ola
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarladık.
 
 Bunun gibi daha fazla bilgi için [tıklayınız](https://f-yesilyurt.medium.com/).
+
+![](https://github.com/furkanyesilyurt/patika-object-oriented-programming/blob/b5cabb9894abbf16ed683905f57b4f03525aa5b2/Hayvanat%20Bahcesi%20Yonetimi/hayvanat-bahcesi-y%C3%B6netimi.PNG)
