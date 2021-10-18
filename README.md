@@ -27,3 +27,11 @@ ___________
 
 UML, bir sistemin tasarımını görselleştirmek için yazılım mühendisliği alanında genel amaçlı modelleme dilidir. Yazılı bir dil değildir. Farklı amaçlar için kategorilere ayrılmış olsa da, genel itibariyle modelleme için kullanılır. 1995 yılında, yazılımlarda bir standart yaklaşım oluşturmak için geliştirilmiştir. Yani UML diyagramları ile önceden modellediğiniz bir yazılım projesini, modele uygun olacak şekilde herhangi bir dil ile geliştirebiliyorsunuz. Bu da yazılım mühendisleri arasında ortak bir dil oluşturuyor. İlk çıktığı zamandan beri sürekli geliştirme göstererek, birçok farklı dala ayrılmıştır. Aşağıda UML diyagramlarının kategorilerini görebiliyoruz. Bizim bu yazımızda bahsedeceğimiz Class Diagram, Structure Diagram altında bulunmakta. Structure Diagrams(Yapısal Diyagramlar), modellenmekte olan sistemde bulunması gerekenler için kullanılır.
 
+[Üniversite Yönetim Sistemi](https://github.com/furkanyesilyurt/patika-UML-diagrams/tree/main/Üniversite%20Yönetim%20Ssistemi)
+[Hayvanat Bahcesi Yönetimi](https://github.com/furkanyesilyurt/patika-UML-diagrams/tree/main/Hayvanat%20Bahcesi%20Yonetimi)
+[Uçuş Yönetim Sistemi](https://github.com/furkanyesilyurt/patika-UML-diagrams/tree/main/Uçuş%20Yönetim%20Sistemi)
+[Online Film Sistemi](https://github.com/furkanyesilyurt/patika-UML-diagrams/tree/main/Online%20Film%20Sistemi)
+[Asansör Simülasyonu](https://github.com/furkanyesilyurt/patika-UML-diagrams/tree/main/Asansör%20Simülasyonu)
+
+
+Bunun gibi daha fazla bilgi için [tıklayınız](https://f-yesilyurt.medium.com/).
