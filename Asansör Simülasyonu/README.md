@@ -14,4 +14,4 @@ Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gel
 
 
 
-![](https://github.com/furkanyesilyurt/patika-UML-diagrams/blob/1673f2f57280e520b588a02ed0b13db4e79ef360/Asans%C3%B6r%20Sim%C3%BClasyonu/asansor-simulasyon.PNG = 300x400)
+![](https://github.com/furkanyesilyurt/patika-UML-diagrams/blob/1673f2f57280e520b588a02ed0b13db4e79ef360/Asans%C3%B6r%20Sim%C3%BClasyonu/asansor-simulasyon.PNG)
