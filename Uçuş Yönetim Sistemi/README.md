@@ -22,3 +22,4 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarladım.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çizmeye çalıştım.
 
+![](https://github.com/furkanyesilyurt/patika-UML-diagrams/blob/e85d7cc5471abc359786536c209a221516ad97d1/U%C3%A7u%C5%9F%20Y%C3%B6netim%20Sistemi/havayolu-sirketi-y%C3%B6netimi.PNG)
