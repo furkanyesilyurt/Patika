@@ -22,4 +22,3 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarladım.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çizmeye çalıştım.
 
-![]()
