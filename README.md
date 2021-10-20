@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Patika Object Oriented Programming
 
 ________________
@@ -35,3 +36,6 @@ UML, bir sistemin tasarımını görselleştirmek için yazılım mühendisliği
 
 
 Bunun gibi daha fazla bilgi için [tıklayınız](https://f-yesilyurt.medium.com/).
+=======
+# patika-java-projects
+>>>>>>> 3a93de46e30da53591649471243b25595db39468
