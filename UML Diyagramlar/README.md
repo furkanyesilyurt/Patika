@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-## Patika Object Oriented Programming
 
-________________
+## Patika Object Oriented Programming
 
 **Object Oriented Programming** yani Nesne Yönelimli Programlama, her işlevin neslek olarak soyutlandığı bir programlama şeklidir.
 
@@ -13,8 +11,6 @@ Yazılımların karışıklığı ve boyutlarının artması, belirli bir niteli
 
 ### Nesne Yönelimli Programlamanın Faydaları
 
-_______________________________
-
 * Nesne oluşturma bir sınıf içerisinde toplanır ve tüm projelerde kullanılabilirliğe olanak sağlar.
 
 - Sınıfların 1 kez oluşturulması sayesinde uzun kodları tekrardan yazmak yerine kısa kodlamalar ile çalıştırılabilir.
@@ -23,8 +19,6 @@ _______________________________
 - Sınıflar sayesinde tüm projelerde değişiklik yapmak yerine tek bir sınıfta değişiklik yapılıp tüm projelerde çalışması sağlanır. Bu zaman kaybını büyük ölçüde azaltır.
 
 ## UML(Unified Modeling Language) nedir?
-
-___________
 
 UML, bir sistemin tasarımını görselleştirmek için yazılım mühendisliği alanında genel amaçlı modelleme dilidir. Yazılı bir dil değildir. Farklı amaçlar için kategorilere ayrılmış olsa da, genel itibariyle modelleme için kullanılır. 1995 yılında, yazılımlarda bir standart yaklaşım oluşturmak için geliştirilmiştir. Yani UML diyagramları ile önceden modellediğiniz bir yazılım projesini, modele uygun olacak şekilde herhangi bir dil ile geliştirebiliyorsunuz. Bu da yazılım mühendisleri arasında ortak bir dil oluşturuyor. İlk çıktığı zamandan beri sürekli geliştirme göstererek, birçok farklı dala ayrılmıştır. Aşağıda UML diyagramlarının kategorilerini görebiliyoruz. Bizim bu yazımızda bahsedeceğimiz Class Diagram, Structure Diagram altında bulunmakta. Structure Diagrams(Yapısal Diyagramlar), modellenmekte olan sistemde bulunması gerekenler için kullanılır.
 
@@ -36,6 +30,4 @@ UML, bir sistemin tasarımını görselleştirmek için yazılım mühendisliği
 
 
 Bunun gibi daha fazla bilgi için [tıklayınız](https://f-yesilyurt.medium.com/).
-=======
-# patika-java-projects
->>>>>>> 3a93de46e30da53591649471243b25595db39468
+
