@@ -30,7 +30,7 @@
 
 4. İlk 3 sorguyu tekrar eden veriler için de yapalım..
 
-   ```sqlite
+   ```sql
    --UNION ALL
    (SELECT last_name,last_update FROM actor)
    UNION ALL
